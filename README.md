@@ -30,3 +30,6 @@ lib/
 │
 └── main.dart                # Entry point of the application
 ```
+
+## Contact
+For any queries regarding the project, feel free to contact me [here](avigyandas123@gmail.com)
