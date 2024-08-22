@@ -32,4 +32,4 @@ lib/
 ```
 
 ## Contact
-For any queries regarding the project, feel free to contact me [here](avigyandas123@gmail.com)
+For any queries regarding the project, feel free to contact me [here](mailto:avigyandas123@gmail.com?subject=[GitHub]%20Source%20Avigyan%20Das)
